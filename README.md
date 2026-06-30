@@ -2,7 +2,7 @@
 A web devolop project built for university submission based on a Figma community layout.
 
 ## Live Website Link
-**[Click here to view the live site]((https://smeychh.github.io/chhan_raksmey_project/))**
+**[Click here to view the live site](https://smeychh.github.io/chhan_raksmey_project/)**
 
 ---
 
